@@ -1,0 +1,47 @@
+body {
+    font-family: 'Noto Serif Khojki', serif;
+    background-color: bisque;
+}
+
+
+table {
+    margin: 0 auto;
+    padding: 10px 10px;
+  }
+
+.tabelaHab h2 img{
+    text-align: center;
+    color: brown;
+}
+
+.cabecalho {
+    background-color: brown;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.cabecalho img{
+    border-radius: 15px;
+}
+
+.cabecalho h1{
+    align-items: center;
+    text-align: center;
+}
+.rodaPe p{
+    text-align: center;
+    margin-top: 100px;
+    background-color: brown;
+    margin-top: 120px ; 
+   
+}
+
+
+.contato {
+    text-align: center;
+    margin-top: 100px;
+}
+
+
